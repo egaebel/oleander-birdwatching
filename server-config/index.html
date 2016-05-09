@@ -1,0 +1,26 @@
+<html>
+<head>
+	<script src="jwplayer/jwplayer.js"></script>
+</head>
+<body>
+
+<h1>HAPPY BIRTHDAY!</h1>
+
+<div id="myElement-teststream">Loading player...</div>
+
+<script type="text/javascript">
+	jwplayer("myElement-teststream").setup({
+		playlist: [{
+			image: "cardinal.jpg",
+			sources: [{
+				// file: "rtmp://oleanderbirdwatching.com:1935/live/teststream"
+				file: "rtmp://98.169.134.166:1935/live/teststream"
+			}]
+		}],
+	height: 600,
+	primary: "flash",
+	width: 800
+});
+</script>
+</body>
+</html>
