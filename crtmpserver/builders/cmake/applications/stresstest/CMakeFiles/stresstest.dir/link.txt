@@ -1,0 +1,2 @@
+/usr/bin/ar cr libstresstest.a  CMakeFiles/stresstest.dir/opt/crtmpserver/sources/applications/stresstest/src/rtmpappprotocolhandler.cpp.o CMakeFiles/stresstest.dir/opt/crtmpserver/sources/applications/stresstest/src/stresstestapplication.cpp.o CMakeFiles/stresstest.dir/opt/crtmpserver/sources/applications/stresstest/src/stresstest.cpp.o
+/usr/bin/ranlib libstresstest.a

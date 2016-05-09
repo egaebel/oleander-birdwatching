@@ -1,0 +1,2 @@
+/usr/bin/ar cr libadmin.a  CMakeFiles/admin.dir/opt/crtmpserver/sources/applications/admin/src/rtmpappprotocolhandler.cpp.o CMakeFiles/admin.dir/opt/crtmpserver/sources/applications/admin/src/admin.cpp.o CMakeFiles/admin.dir/opt/crtmpserver/sources/applications/admin/src/adminapplication.cpp.o CMakeFiles/admin.dir/opt/crtmpserver/sources/applications/admin/src/cliappprotocolhandler.cpp.o
+/usr/bin/ranlib libadmin.a

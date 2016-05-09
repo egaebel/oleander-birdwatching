@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/crtmpserver/3rdparty/tinyxml/tinyxml.cpp
+tinyxml.h
+/opt/crtmpserver/3rdparty/tinyxml/tinyxml.h
+
+/opt/crtmpserver/3rdparty/tinyxml/tinyxml.h
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+string
+-
+iostream
+-
+sstream
+-
+
+/opt/crtmpserver/3rdparty/tinyxml/tinyxmlerror.cpp
+tinyxml.h
+/opt/crtmpserver/3rdparty/tinyxml/tinyxml.h
+
+/opt/crtmpserver/3rdparty/tinyxml/tinyxmlparser.cpp
+tinyxml.h
+/opt/crtmpserver/3rdparty/tinyxml/tinyxml.h
+windows.h
+-
+

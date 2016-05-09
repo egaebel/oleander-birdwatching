@@ -1,0 +1,2 @@
+/usr/bin/ar cr libvptests.a  CMakeFiles/vptests.dir/opt/crtmpserver/sources/applications/vptests/src/rtmpappprotocolhandler.cpp.o CMakeFiles/vptests.dir/opt/crtmpserver/sources/applications/vptests/src/vptestsapplication.cpp.o CMakeFiles/vptests.dir/opt/crtmpserver/sources/applications/vptests/src/vptests.cpp.o CMakeFiles/vptests.dir/opt/crtmpserver/sources/applications/vptests/src/variantappprotocolhandler.cpp.o
+/usr/bin/ranlib libvptests.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libtinyxml.a  CMakeFiles/tinyxml.dir/opt/crtmpserver/3rdparty/tinyxml/tinyxml.cpp.o CMakeFiles/tinyxml.dir/opt/crtmpserver/3rdparty/tinyxml/tinyxmlerror.cpp.o CMakeFiles/tinyxml.dir/opt/crtmpserver/3rdparty/tinyxml/tinyxmlparser.cpp.o
+/usr/bin/ranlib libtinyxml.a
